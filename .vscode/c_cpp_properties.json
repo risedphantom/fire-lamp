@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/apanov/Arduino/libraries/**",
+                "/home/apanov/Download/arduino-1.8.9-linux64/arduino-1.8.9/libraries/**",
+                "/home/apanov/.arduino15/packages/esp8266/hardware/esp8266/2.5.2/**",
+                "/home/apanov/.arduino15/packages/esp8266/tools/**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
